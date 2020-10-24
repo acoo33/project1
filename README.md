@@ -10,12 +10,12 @@
   Using the Open Beer Database and Census Database analyze Craft Beer across the US
 
 ## Research Question to Answer
-  WHERE are US breweries located?<br/>
+  1) WHERE are US breweries located?<br/>
   &nbsp;&nbsp;&nbsp; Which regions/states have the most breweries?<br/>
-  WHAT beers are US breweries making?<br/>
+  2) WHAT beers are US breweries making?<br/>
   &nbsp;&nbsp;&nbsp; What are the most produced styles per region?<br/>
   &nbsp;&nbsp;&nbsp; What region makes the strongest beers?<br/>
-  WHY are US breweries located where they are located?<br/>
+  5) WHY are US breweries located where they are located?<br/>
   &nbsp;&nbsp;&nbsp; Does age, income, or population size correlate to number of breweries?
 
 ## Dataset to Be Used
