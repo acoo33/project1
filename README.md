@@ -7,7 +7,7 @@
   Jose Vilchez<br/>
 
 ## Project Description/Outline
-  Using the Open Beer Database and Census Database analyze Craft Beer across the US
+  Using the Open Beer Database and Census Database analyze Craft Beer production across the US.
 
 ## Research Question to Answer
   1) WHERE are US breweries located?<br/>
@@ -24,7 +24,7 @@
 
 ## Rough Breakdown of Tasks
 
-  Nick Voravong - 
+  Nick Voravong - Cleanup the Open Beer Dataset and create a usable starting point for the rest of the team. Create mapping exhibits that visually connect data with location.
 
   Alberto Castellanos - 
 
