@@ -26,8 +26,8 @@
 
   Nick Voravong - Cleanup the Open Beer Dataset and create a usable starting point for the rest of the team. Create mapping exhibits that visually connect data with location.
 
-  Alberto Castellanos - 
+  Alberto Castellanos - Created the Category by region, Alcohol % by region, and Pie chart.
 
-  Michael Trice - 
+  Michael Trice - Used the Census API to pull 2018 data. Started the PowerPoint and Project writeup analysis.
 
-  Jose Vilchez - 
+  Jose Vilchez - Created the correlation between population of each state and number of breweries.
